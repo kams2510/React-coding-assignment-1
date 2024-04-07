@@ -1,0 +1,48 @@
+.logo-card {
+  display: flex;
+  margin-left: 30px;
+}
+
+.history-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.first-item {
+  display: flex;
+  justify-content: space-around;
+}
+.app-logo {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+}
+.time-accessed {
+  font-size: 14px;
+  font-weight: 500;
+}
+.title {
+  margin: 18px 8px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.domain-url {
+  margin: 18px 3px;
+  font-size: 13px;
+  font-weight: 300;
+  font-family: 'Roboto';
+}
+
+.delete-icon {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 30px;
+}
+
+button {
+  background-color: transparent;
+  border: 0;
+}
